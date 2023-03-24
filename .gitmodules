@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "multiMarker"]
+	path = multiMarker
+	url = https://github.com/cran/multiMarker
+	shallow = true
+	registered = true
+[submodule "spaceNet"]
+	path = spaceNet
+	url = https://github.com/cran/spaceNet
+	shallow = true
+	registered = true
